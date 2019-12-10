@@ -67,4 +67,7 @@ public class Post {
 		comments.remove(comment);
 	}
 	
+	public String toString() {
+		
+	}
 }
